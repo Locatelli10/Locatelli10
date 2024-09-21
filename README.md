@@ -1,9 +1,8 @@
-<center><h2> Welcome to my GitHub! ⭐</h2></center>
-<center><h2>
-🔍 Data Science • 🤖 Artificial Intelligence • ⚙️ Process Automation (RPA, Workflows, Pipelines)
-</h2></center>
+<h2> Welcome to my GitHub! ⭐</h2>
+<h2>🔍 Data Science • 🤖 Artificial Intelligence • ⚙️ Process Automation (RPA, Workflows, Pipelines)
+</h2>
 
-## About me
+## About Me
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Nathan, intern in Computer Science and a Pythonic programming 🐍... <br />
 
@@ -11,17 +10,17 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> I use daily: `Python` <br />
 
-## My technologies
+## My Technologies
+
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="75px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="75px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="75px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50px"/>
 </p>
 
 ## Github Public Stats 💻
 
-<div align='center'>
-
+<div align="center">
 <div align="center">  
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Locatelli10&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
@@ -29,11 +28,24 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Locatelli10&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
   
 </div>
-
 </div>
 
+## Contact Me
 
+<div align="left">
+<p>
+<a href="mailto:nathan.locatelli10@gmail.com">
+<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail"></a>
+<a href="https://www.linkedin.com/in/nathan-leal-locatelli-416049173/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
+</p>
+</div>
 
+------------------------------
+<details align="left">
+  <summary>Credits</summary> 
+  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  <br>
+</details>
 
 
 <!--
