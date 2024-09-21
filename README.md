@@ -5,9 +5,8 @@
 ## About Me
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Nathan, intern in Computer Science and a Pythonic programming 🐍... <br />
-
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="25" height="25" /> Passionate about solving problems using technological solutions.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is become a Data Scientist. <br />
-
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> I use daily: `Python` <br />
 
 ## My Technologies
@@ -18,7 +17,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50px"/>
 </p>
 
-## Github Public Stats 💻
+## My Github Public Stats 💻
 
 <div align="center">
 <div align="center">  
@@ -45,6 +44,8 @@
   <summary>Credits</summary> 
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   <br>
+  - GitHub Stats by <a href="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis">Tarikul-Islam-Anik</a>
+  <br>
 </details>
 
 
@@ -53,11 +54,8 @@
 
 Here are some ideas to get you started:
 
+💬🎯👋
 
-💬
-
-🎯
-👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
