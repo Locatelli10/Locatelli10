@@ -1,6 +1,6 @@
-<h2> Welcome to my GitHub! ⭐</h2>
-<h2>🔍 Data Science • 🤖 Artificial Intelligence • ⚙️ Process Automation (RPA, Workflows, Pipelines)
-</h2>
+## Welcome to my GitHub! ⭐
+
+## 🔍 Data Science • 🤖 Artificial Intelligence • ⚙️ Process Automation (RPA, Workflows, Pipelines)
 
 ## About Me
 
@@ -39,7 +39,8 @@
 </p>
 </div>
 
-------------------------------
+----------------------------------------------------------------------
+
 <details align="left">
   <summary>Credits</summary> 
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
