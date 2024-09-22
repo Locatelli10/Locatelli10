@@ -1,4 +1,4 @@
-## Welcome to my GitHub! ⭐
+## Welcome to my GitHub! 🎲
 
 ## 🔍 Data Science • 🤖 Artificial Intelligence • ⚙️ Process Automation (RPA, Workflows, Pipelines)
 
